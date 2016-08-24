@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Akıl Hane</string>
+    <string name="profile_options">Profil İşlemleri (In Dev.)</string>
+    <string name="tasks">Görev Ekle</string>
+    <string name="logout">Oturumu Kapat</string>
+    <string name="title">Akıl Hane</string>
+    <string name="doorMessage">Kapı Mesajı</string>
+    <string name="roomParfume">Oda Parfümü</string>
+    <string name="homeLock">Ev Kilidi</string>
+
+    <string name="always">always</string>
+    <string name="weekdays">weekdays</string>
+    <string name="weekends">weekends</string>
+
+    <string name="on">on</string>
+    <string name="off">off</string>
+</resources>
